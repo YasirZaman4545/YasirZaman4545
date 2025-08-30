@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasir Zaman</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0e75b6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Junior+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+</h2>
+
 <h3 align="center">Junior Developer | Frontend Enthusiast | Computer Science Graduate (Ongoing) | Passionate about AI & Computer Vision</h3>
 
 <p align="left"> 
@@ -56,9 +61,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
 </p>
 
 <h3 align="left">Projects:</h3>
@@ -67,9 +69,16 @@
   <li><b>Talghar Website</b> – Developed a responsive website with HTML, TailwindCSS, JavaScript, backend in PHP, and MySQL integration; deployed on Hostinger.</li>
 </ul>
 
+<h3 align="left">📊 Most Used Languages:</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirzaman&show_icons=true&locale=en&layout=compact" alt="yasirzaman" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirzaman&show_icons=true&locale=en" alt="yasirzaman" />
