@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=160&section=header&text=Yasir%20Zaman&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=65&descColor=cce8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=160&section=header&text=Yasir%20Zaman&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Computer Scientist %20%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=65&descColor=cce8ff" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/yasirzaman">
